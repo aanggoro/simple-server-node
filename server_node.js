@@ -1,6 +1,6 @@
 /*
 *
-*Title: create server own for practice
+*Title: create own server for practice
 *
 *created_at: 21-7-18 
 *updated_at: 21-7-18
